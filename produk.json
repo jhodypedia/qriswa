@@ -1,0 +1,5 @@
+[
+  { "id": "p001", "name": "Kaos Polos", "price": 45000 },
+  { "id": "p002", "name": "Hoodie Hitam", "price": 125000 },
+  { "id": "p003", "name": "Totebag", "price": 35000 }
+]
